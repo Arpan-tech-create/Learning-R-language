@@ -1,0 +1,1 @@
+plot(1:20,type="l",main="Simple Graph")
