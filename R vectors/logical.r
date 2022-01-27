@@ -1,0 +1,2 @@
+log<-c(TRUE,FALSE,FALSE,TRUE)
+log
